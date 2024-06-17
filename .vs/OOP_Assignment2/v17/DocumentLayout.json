@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|c:\\users\\gally sismondi\\source\\repos\\oop_assignment2\\oop_assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|solutionrelative:oop_assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|c:\\users\\gally sismondi\\source\\repos\\oop_assignment2\\oop_assignment2\\interfaces\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|solutionrelative:oop_assignment2\\interfaces\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|c:\\users\\gally sismondi\\source\\repos\\oop_assignment2\\oop_assignment2\\interfaces\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|solutionrelative:oop_assignment2\\interfaces\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|c:\\users\\gally sismondi\\source\\repos\\oop_assignment2\\oop_assignment2\\interfaces\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|solutionrelative:oop_assignment2\\interfaces\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|c:\\users\\gally sismondi\\source\\repos\\oop_assignment2\\oop_assignment2\\abstract classes and methods\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|solutionrelative:oop_assignment2\\abstract classes and methods\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|c:\\users\\gally sismondi\\source\\repos\\oop_assignment2\\oop_assignment2\\abstract classes and methods\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|solutionrelative:oop_assignment2\\abstract classes and methods\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|c:\\users\\gally sismondi\\source\\repos\\oop_assignment2\\oop_assignment2\\abstract classes and methods\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|solutionrelative:oop_assignment2\\abstract classes and methods\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|c:\\users\\gally sismondi\\source\\repos\\oop_assignment2\\oop_assignment2\\inheritance and method overriding\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|solutionrelative:oop_assignment2\\inheritance and method overriding\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|c:\\users\\gally sismondi\\source\\repos\\oop_assignment2\\oop_assignment2\\inheritance and method overriding\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|solutionrelative:oop_assignment2\\inheritance and method overriding\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|c:\\users\\gally sismondi\\source\\repos\\oop_assignment2\\oop_assignment2\\inheritance and method overriding\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|solutionrelative:oop_assignment2\\inheritance and method overriding\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|c:\\users\\gally sismondi\\source\\repos\\oop_assignment2\\oop_assignment2\\oop_assignment2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C118527-1ACB-4D1C-B5E6-38D92B02B301}|OOP_Assignment2\\OOP_Assignment2.csproj|solutionrelative:oop_assignment2\\oop_assignment2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Interfaces\\Bicycle.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment2\\Interfaces\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Interfaces\\Bicycle.cs",
+              "RelativeToolTip": "OOP_Assignment2\\Interfaces\\Bicycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T19:25:54.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Interfaces\\Car.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment2\\Interfaces\\Car.cs",
+              "ToolTip": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Interfaces\\Car.cs",
+              "RelativeToolTip": "OOP_Assignment2\\Interfaces\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T19:25:44.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Interfaces\\IMovable.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment2\\Interfaces\\IMovable.cs",
+              "ToolTip": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Interfaces\\IMovable.cs",
+              "RelativeToolTip": "OOP_Assignment2\\Interfaces\\IMovable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T19:25:33.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Abstract Classes and Methods\\Rectangle.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment2\\Abstract Classes and Methods\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Abstract Classes and Methods\\Rectangle.cs",
+              "RelativeToolTip": "OOP_Assignment2\\Abstract Classes and Methods\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T19:25:07.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Abstract Classes and Methods\\Circle.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment2\\Abstract Classes and Methods\\Circle.cs",
+              "ToolTip": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Abstract Classes and Methods\\Circle.cs",
+              "RelativeToolTip": "OOP_Assignment2\\Abstract Classes and Methods\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T19:24:55.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Abstract Classes and Methods\\Shape.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment2\\Abstract Classes and Methods\\Shape.cs",
+              "ToolTip": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Abstract Classes and Methods\\Shape.cs",
+              "RelativeToolTip": "OOP_Assignment2\\Abstract Classes and Methods\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T19:24:41.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Inheritance and Method Overriding\\Cat.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment2\\Inheritance and Method Overriding\\Cat.cs",
+              "ToolTip": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Inheritance and Method Overriding\\Cat.cs",
+              "RelativeToolTip": "OOP_Assignment2\\Inheritance and Method Overriding\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T19:23:52.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Inheritance and Method Overriding\\Dog.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment2\\Inheritance and Method Overriding\\Dog.cs",
+              "ToolTip": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Inheritance and Method Overriding\\Dog.cs",
+              "RelativeToolTip": "OOP_Assignment2\\Inheritance and Method Overriding\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T19:23:45.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Inheritance and Method Overriding\\Animal.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment2\\Inheritance and Method Overriding\\Animal.cs",
+              "ToolTip": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Inheritance and Method Overriding\\Animal.cs",
+              "RelativeToolTip": "OOP_Assignment2\\Inheritance and Method Overriding\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T19:23:22.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment2\\Program.cs",
+              "ToolTip": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\Program.cs",
+              "RelativeToolTip": "OOP_Assignment2\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T19:22:28.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OOP_Assignment2",
+              "DocumentMoniker": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\OOP_Assignment2.csproj",
+              "RelativeDocumentMoniker": "OOP_Assignment2\\OOP_Assignment2.csproj",
+              "ToolTip": "C:\\Users\\GALLY sismondi\\source\\repos\\OOP_Assignment2\\OOP_Assignment2\\OOP_Assignment2.csproj",
+              "RelativeToolTip": "OOP_Assignment2\\OOP_Assignment2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T19:24:05.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
